@@ -1,3 +1,4 @@
+<!-- Profile README -->
 # 👋 Hey I'm Paranitharan!
 
 > I'm a final-year Data Science & Analytics student at NUS (Minor in Bioinformatics), focused on applied R&D and fine-tuning foundation models for complex imagery.
