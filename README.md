@@ -35,11 +35,9 @@ This repository is a guided index of my work. Each project below links to a deta
 
 ## 💼 Professional Experience (project highlights)
 
-Detailed write-ups of the engineering work behind my internships:
+Detailed write-up of the engineering work behind my internship:
 
 - **[Tan Tock Seng Hospital](projects/ttsh-ct-triage.md)** — Computer Vision Intern. Rebuilt an ~11.5k-line CT triage pipeline for pulmonary embolism and right-heart strain, redesigning four always-on models into a gated cascade.
-- **[NetNow, Inc.](projects/netnow.md)** — Software Engineering Intern. Built a Dockerised document-extraction and trade-reference pipeline (OCR, Docling, Gemini, Celery/Redis/Django).
-- **[Ridealike](projects/ridealike.md)** — Data Science Specialist Intern. Shipped a serverless AWS identity-verification and dynamic-pricing backend for a car-sharing marketplace.
 
 ---
 
