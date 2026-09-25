@@ -14,14 +14,16 @@
   Java<br>
   MATLAB
 
-- **Frameworks & Libraries:**<br>
+- **ML & Vision Libraries:**<br>
   PyTorch<br>
   timm<br>
   scikit-learn<br>
   Transformers<br>
   SAM<br>
   TotalSegmentator<br>
-  Bioconductor<br>
+  Bioconductor
+
+- **Web & Backend Frameworks:**<br>
   React<br>
   Next.js<br>
   Django<br>
